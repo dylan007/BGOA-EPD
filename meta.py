@@ -1,0 +1,10 @@
+ns = 50
+niter = 500
+dim = 34
+alpha = 0.99
+beta = 0.01
+L = 50
+cmin = 0.00001
+cmax = 1
+f = 0.5
+l = 1.5
